@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tailwind-clone",
+  "private_key_id": "69d94c5f20c4b2d07f35cba86d37f24c1ca00c03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD1GHlKkl98L681\n+i1sAHBgdRTb2y8lxXckQdmD1U6HjZmQtru6fLggK00xChLHi4Y9CkLA5dCeXHx9\ncgOe+EHxiQEefMtnDSSFiPkWstotnVu2oOeqBMVoozATXN1DalFpM7e0Z48yQNEJ\nzH5nyYl5izO3pZvGwedmWwgUm1Q8WY2e7XDldOkchdcwLLKpdb+HZsGZjM0tCLB8\nYnXBgZnTE0tqfvQhxPA+3bpYMoHfXbwHT0oE8qX3H8ovxWyN50mlJH8yJWSMX4Io\nfeqHq4rSepknmDSLLWQ/gUH3cX7QJ/mYJJhh9Ae4Emg7ayisPgKiz3HxkAIMsGRe\n4dhYBiGLAgMBAAECggEAMhZTSzMIgmd4Re6fc6/PR1cF8TwksXJeO7GdUvy3dKoy\nVMmTKbQtKJ3Qw5HMbq0LvNOo+qS8cnByHGy9YrJXP5YA/YsBQkkESqnIRaQ9RA8h\nW/wb+7nH4e9fdsWGji1e/8HK6/ox4FIwpfD9cBZWmtkgs4oLgJ3FvTwjNZrcpww7\nppjQ2PEQTN0ATuq/RP22k+OjkzkQgBheR4VE9oLQKC9E5fBTFq1D99b+a8DMuTdC\nKBdTalxWQD0shKHn3ZQpEdWZy8uMUaq1wqdXad+RlYzPCflWHebqCDsJvcbJZHGK\nv2GiJm7Cs4ypgV3KwW9iZ3eDJcXQjc2dslIXDquqqQKBgQD/4exuHcHjA2kP852R\ntNWtCcIA5WN7XhfvwWwMm3sCp6Ww/Reo3aEWyJO04v9NZxPUIEXEcsrtQLHZ50Pn\niwZPCOyEJ2ZwA/ODImiW8I+KQyAn8lGeX3RnDXxmS+lwLqQfRLLiES0qJ7Np8qoT\nGI2jB9DwzJA+Qjn0E1MybvwPBwKBgQD1NUhHuwczBLsK8QlrZG0VRR4yecYLWXJD\n6j3Bew0YhGq8Bs/ZfzJr5V0wKhNyXLnaJwrUutrGLWPGPDAordtxRd2nGlFP/dKE\nm5g9fWaY4X/u/ETsAmCfx73AuOHkU4KbU36HHuPIeYqciEQSyCfNvu5SZ3rbD3tS\niP7ELE70XQKBgEDsHYTC4BKtJtb5RJ1XeG9y7loz2U3PzdrzBGsed9NwncWOMZaS\nxPB266MVhRkqcgl8NrdlOL+Bjp5u4ve4el1LMldFd+Qr3HkFHexOFN1Lsrjv7m10\nYqBS96Es2YmxC8szLv/Uw9TSRd83xpcZv7YBoa22+VISk4mt7Yn6RtG5AoGBALej\nPMuDlQOvYkjydUR5RHxudAwHSLtNNJcKQU+6UPdwi+LfEyBm8yL89kpQ6Jl4OjPX\nk3P3sEpEyfk3MDX25mYxlatEuWq3w8ZOJLjARmruTnpzcUZzDVv8Ie7IR1xQ8npT\nEGovRxXneFh8cMbEIZMjj6YlG0wdjxUjxfCy4jp9AoGAegBlzmOWltMf485SJeGr\nET2Qy/LEMd4LLWpR9GGb1l9F7LP++h89B7hTR7nDERABiy5J8oEv22nIwKD9/+6R\nqVc9Z/ZYfpeK0ykozNon1j8lRx3OWdYGF7tcQuXvebxQ6qQ9vmWvvYzuR8es3N0V\nYypRCu+hc+v6oGI/v27fYkI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1rxcg@tailwind-clone.iam.gserviceaccount.com",
+  "client_id": "106772377830142467827",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1rxcg%40tailwind-clone.iam.gserviceaccount.com"
+}
